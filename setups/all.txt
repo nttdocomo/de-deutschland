@@ -45,4 +45,3 @@ de-deutschland!/2013-14/cup
 
 # 2014/15
 de-deutschland!/2014-15/1-bundesliga
-de-deutschland!/2014-15/2-bundesliga2
