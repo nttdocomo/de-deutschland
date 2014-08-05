@@ -32,24 +32,17 @@ de-deutschland!/clubs_th_thueringen
 # - Fixtures
 
 # 2012/13
-de-deutschland!/2012-13/1-bundesliga-i
-de-deutschland!/2012-13/1-bundesliga-ii
+de-deutschland!/2012-13/1-bundesliga
 de-deutschland!/2012-13/2-bundesliga2
 de-deutschland!/2012-13/3-liga3
 de-deutschland!/2012-13/cup
 
 # 2013/14
-de-deutschland!/2013-14/1-bundesliga-i
-de-deutschland!/2013-14/1-bundesliga-ii
-de-deutschland!/2013-14/2-bundesliga2-i
-de-deutschland!/2013-14/2-bundesliga2-ii
-de-deutschland!/2013-14/3-liga3-i
-de-deutschland!/2013-14/3-liga3-ii
+de-deutschland!/2013-14/1-bundesliga
+de-deutschland!/2013-14/2-bundesliga2
+de-deutschland!/2013-14/3-liga3
 de-deutschland!/2013-14/cup
 
 # 2014/15
-de-deutschland!/2014-15/1-bundesliga-i
-de-deutschland!/2014-15/1-bundesliga-ii
-de-deutschland!/2014-15/2-bundesliga2-i
-de-deutschland!/2014-15/2-bundesliga2-ii
-
+de-deutschland!/2014-15/1-bundesliga
+de-deutschland!/2014-15/2-bundesliga2
